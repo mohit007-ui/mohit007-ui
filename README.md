@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit007-u1&label=Profile%20views&color=0e75b6&style=flat" alt="mohit007-u1" /> </p>
 
-- 💬 Ask me about **HTML, CSS, Javascript, Mongodb, React, Redux, Express.js, Node.js, Boostrap, Tailwind-CSS, GIT, GITHUB, MySQL, Oracle SQL.**
+- 💬 Ask me about **HTML, CSS, Javascript, Mongodb, React, Redux, Express.js, Node.js, Boostrap, Tailwind-CSS, GIT, GITHUB, MySQL, Oracle SQL .**
 
 - 📫 How to reach me **mohitchandell007@gmail.com**
 
