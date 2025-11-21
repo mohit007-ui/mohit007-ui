@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Chandel</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | Business Analyst | Data Scientist <br>
+Data & Business Analytics Professional | Open to Data Analyst, Business Analyst & Data Science Roles <br>
 Skilled in Python, SQL, BI Tools, Machine Learning & Data Visualization.
 </h3>
 
