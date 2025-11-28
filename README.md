@@ -57,7 +57,7 @@ Skilled in Python, SQL, BI Tools, Machine Learning & Data Visualization.
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
 
 <!-- Streamlit -->
-<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="45" height="45"/>
+<img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="45" height="45"/>
 
 <!-- Scikit-Learn -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
